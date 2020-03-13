@@ -1,7 +1,7 @@
 package main
 
 import (
-	"EchoGo/echo"
+	"github.com/gyf210/EchoGo/echo"
 )
 
 func main() {
